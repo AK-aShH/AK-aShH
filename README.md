@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 <h3 align="center">A passionate Technophile.</h3>
 
-<p align="left"> <a href="https://twitter.com/akashya64500833" target="blank"><img src="https://img.shields.io/twitter/follow/akashya64500833?logo=twitter&style=for-the-badge" alt="akashya64500833" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript, Bootstrap, react.**
 
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **akashyadav36437@gmail.com**
 
-- ⚡ Fun fact **I love the adventure of life.**
+- ⚡ Fun fact ***I love the adventure of life.***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
