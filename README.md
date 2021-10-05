@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img href="https://user-images.githubusercontent.com/81186992/136108654-b799d1fb-7505-4783-88ec-f4f0fd51bcd0.gif" width="400" height="800">
+![0_7Q3yvSIv_t0ioJ-Z](https://user-images.githubusercontent.com/81186992/136109249-bdc07440-79eb-4b94-9cbb-8e9ff2de691f.gif= 800x400)
+
 
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 <h3 align="center">A passionate Technophile.</h3>
