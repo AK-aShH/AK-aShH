@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![0_7Q3yvSIv_t0ioJ-Z](https://user-images.githubusercontent.com/81186992/136108654-b799d1fb-7505-4783-88ec-f4f0fd51bcd0.gif)
+
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 <h3 align="center">A passionate Technophile.</h3>
 
@@ -31,7 +33,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akashya64500833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashya64500833" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akash yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash yadav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-yadav-9a8387167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash yadav" height="30" width="40" /></a>
 <a href="https://instagram.com/__akaash__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__akaash__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/akash_36437" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akash_36437" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akash_36437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akash_36437" height="30" width="40" /></a>
