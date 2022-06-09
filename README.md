@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Technophile.</h3>
 
 
-- 🌱 I’m currently learning **Javascript, Bootstrap, react.**
+- 🌱 I’m currently learning **React.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AK-aShH](https://github.com/AK-aShH)
 
-- 💬 Ask me about **Html, CSS, C, C++.**
+- 💬 Ask me about **Html, CSS, C, C++, Java, Javascript, jQuery, Nodejs**
 
 - 📫 How to reach me **akashyadav36437@gmail.com**
 
